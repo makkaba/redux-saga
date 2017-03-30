@@ -1,9 +1,13 @@
+<img src='logo/0800/Redux-Saga-Logo-Landscape.png' alt='Redux Logo Landscape' width='800px'>
+
 # redux-saga
 
 [![Join the chat at https://gitter.im/yelouafi/redux-saga](https://badges.gitter.im/yelouafi/redux-saga.svg)](https://gitter.im/yelouafi/redux-saga?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![npm version](https://img.shields.io/npm/v/redux-saga.svg?style=flat-square)](https://www.npmjs.com/package/redux-saga) [![CDNJS](https://img.shields.io/cdnjs/v/redux-saga.svg?style=flat-square)](https://cdnjs.com/libraries/redux-saga)
+[![OpenCollective](https://opencollective.com/redux-saga/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/redux-saga/sponsors/badge.svg)](#sponsors)
 
 ### **NOTE**
-이 문서는 현재 `redux-saga` [v0.14.1](https://github.com/redux-saga/redux-saga/tree/8c0c755e87be2c8c34baa895d5efbebc562a37e0) 기준으로 작성되었습니다.
+이 문서는 현재 `redux-saga` [v0.14.3](https://github.com/redux-saga/redux-saga/tree/e237a20e6973585c44b5a098a688a4a3c102c033) 기준으로 작성되었습니다.
 
 --
 
@@ -110,20 +114,22 @@ sagaMiddleware.run(mySaga)
 
 # Documentation
 
-- [시작하면서](http://yelouafi.github.io/redux-saga/docs/introduction/BeginnerTutorial.html)
-- [기본 개념](http://yelouafi.github.io/redux-saga/docs/basics/index.html)
-- [고급 개념](http://yelouafi.github.io/redux-saga/docs/advanced/index.html)
-- [레시피](http://yelouafi.github.io/redux-saga/docs/recipes/index.html)
-- [외부 자료](http://yelouafi.github.io/redux-saga/docs/ExternalResources.html)
-- [문제해결](http://yelouafi.github.io/redux-saga/docs/Troubleshooting.html)
-- [용어 사전](http://yelouafi.github.io/redux-saga/docs/Glossary.html)
-- [API 레퍼런스](http://yelouafi.github.io/redux-saga/docs/api/index.html)
+- [시작하면서](https://redux-saga.github.io/redux-saga/docs/introduction/BeginnerTutorial.html)
+- [기본 개념](https://redux-saga.github.io/redux-saga/docs/basics/index.html)
+- [고급 개념](https://redux-saga.github.io/redux-saga/docs/advanced/index.html)
+- [레시피](https://redux-saga.github.io/redux-saga/docs/recipes/index.html)
+- [외부 자료](https://redux-saga.github.io/redux-saga/docs/ExternalResources.html)
+- [문제해결](https://redux-saga.github.io/redux-saga/docs/Troubleshooting.html)
+- [용어 사전](https://redux-saga.github.io/redux-saga/docs/Glossary.html)
+- [API 레퍼런스](https://redux-saga.github.io/redux-saga/docs/api/index.html)
 
 # 번역
 
 - [Chinese](https://github.com/superRaytin/redux-saga-in-chinese)
 - [Chinese Traditional](https://github.com/neighborhood999/redux-saga)
-- [Japanese](https://github.com/yelouafi/redux-saga/blob/master/README_ja.md)
+- [Japanese](https://github.com/redux-saga/redux-saga/blob/master/README_ja.md)
+- [Korean](https://github.com/redux-saga/redux-saga/blob/master/README_ko.md)
+- [Russian](https://github.com/redux-saga/redux-saga/blob/master/README_ru.md)
 
 # 브라우저에서 umd 빌드 사용하기
 
